@@ -34,3 +34,5 @@ branching, commits, remote repositories, and CI/CD concepts.
 ## Author
 
 Gali Jayakrishna
+
+Run tests:npx playwright test
